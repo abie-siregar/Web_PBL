@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: 0;
+    list-style: none;
+}
+
+body {
+    min-height: 100vh;
+    height: 100vh;
+}
+
+.container-fluid {
+    background-color: #ffffff;
+    display: flex;
+}
+
+.card {
+    float: right;
+}
+
+.form-control-sm.rounded-4 {
+    background-color: #EFF5F5;
+}
+
+.card.rounded-5 {
+    width: 400px;
+    box-sizing: border-box;
+}
+
+form.m-4 a {
+    text-decoration: none;
+}
+
+button.btn.btn-block.w-100 {
+    background-color: #0079FF;
+}
+
+button.btn.btn-block.w-50 {
+    background-color: #0079FF;
+}
+
+.col-md-9.col-lg-6.me-5 {
+    justify-content: center;
+}
